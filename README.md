@@ -20,6 +20,4 @@
   .
 ----------------------
       lovv Ponytwn
-git add README.md
-git commit -m "Add README file to display on homepage"
-git push origin main
+                 my gay baby: Nahr
