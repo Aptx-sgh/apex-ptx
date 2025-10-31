@@ -1,3 +1,3 @@
  hppy hlwenn
 >>w<.
-![Mô tả ảnh](images/my-photo.png)
+![hphlw](images/2025-10-31 134924.png)
