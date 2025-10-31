@@ -9,10 +9,12 @@
  ------------------------------     
  <p align="center">  
 <img width="365" height="408" alt="Screenshot 2025-10-26 151310" src="https://github.com/user-attachments/assets/1aa514cf-cd81-4a1e-80f6-97e97601add1" /> 
+  <img width="853" height="670" alt="Screenshot 2025-10-31 194224" src="https://github.com/user-attachments/assets/825db29e-0e02-4078-8f69-454a35aded3f" />
   🦴　　
 
   .
   .
+
   .
   .
 ----------------------
