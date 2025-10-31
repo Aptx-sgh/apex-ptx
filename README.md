@@ -10,7 +10,7 @@
  <p align="left">  
 <img width="365" height="408" alt="Screenshot 2025-10-26 151310" src="https://github.com/user-attachments/assets/1aa514cf-cd81-4a1e-80f6-97e97601add1" /> 
   <p align="right"> 
-  <img width="709" height="633" alt="Screenshot 2025-10-31 194438" src="https://github.com/user-attachments/assets/d39bf804-bb09-4ddc-b855-9a1abc57cc9d" />
+<img width="392" height="393" alt="Screenshot 2025-10-31 195153" src="https://github.com/user-attachments/assets/0ee382ec-a9f3-427f-b8c3-5d6d99ea2d2b" />
 
   🦴　　
 
