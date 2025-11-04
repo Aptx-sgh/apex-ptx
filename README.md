@@ -1,6 +1,6 @@
 
-  <p align=center> <img src= "https://komarev.com/ghpvc/?username=your-github-username&color=E4C497&style=flat-square&label=luv>
- 
+ <p align=center> <img src= "https://komarev.com/ghpvc/?username=xelxmyr&color=B2814E&style=flat-square&label=宁✦>"
+  
 --------
                   luv<3     .halloween ys cmmingg! hw mch candies do u hv?
 <p align="center">  
@@ -10,7 +10,7 @@
                   Poo!👻
 >>w<
  
-<p align="center![full](https://github.com/user-attachments/assets/fcebd46c-d250-4e6c-a231-ede6296c47c4)
+![full](https://github.com/user-attachments/assets/fcebd46c-d250-4e6c-a231-ede6296c47c4)
 
  ------------------------------     
  <p align="right">  
