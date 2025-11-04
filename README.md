@@ -1,4 +1,3 @@
-   <p align="center"> <img width="150" src= "https://komarev.com/ghpvc/?username=xelxmyr&color=ef903f&style=flat-square&label=luv > 
 
                          
   hppy hlwenn
