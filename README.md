@@ -10,7 +10,7 @@
                   Poo!👻
 >>w<
  
-<p align="center">  ![full](https://github.com/user-attachments/assets/fcebd46c-d250-4e6c-a231-ede6296c47c4)
+<p align="center![full](https://github.com/user-attachments/assets/fcebd46c-d250-4e6c-a231-ede6296c47c4)
 
  ------------------------------     
  <p align="right">  
