@@ -1,5 +1,5 @@
 
- <p align=center> <img src= "https://komarev.com/ghpvc/?username=aptx-sgh&color=B2814E&style=flat-square&label=ލޯބި✦"
+ 
   
 --------
                   luv<3     .halloween ys cmmingg! hw mch candies do u hv?
