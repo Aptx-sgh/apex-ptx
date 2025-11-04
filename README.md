@@ -1,4 +1,4 @@
-   <img width="160" src="https://komarev.com/ghpvc/?username=your-github-username&color=3e947b" alt="luv">
+   <img width="150" src="https://komarev.com/ghpvc/?username=your-github-username&color=ef903f" alt="luv">
 
  hppy hlwenn
 >>w<.
