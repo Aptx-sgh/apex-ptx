@@ -1,5 +1,5 @@
 
- <p align=center> <img src= "https://komarev.com/ghpvc/?username=xelxmyr&color=B2814E&style=flat-square&label=宁✦>"
+ <p align=center> <img src= "https://komarev.com/ghpvc/?username=your-github-username&color=B2814E&style=flat-square&label=宁✦"
   
 --------
                   luv<3     .halloween ys cmmingg! hw mch candies do u hv?
